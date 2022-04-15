@@ -1,0 +1,2 @@
+C:\Users\Филипп лох\source\repos\Server\x64\Debug\Server.exe
+C:\Users\Филипп лох\source\repos\SisPO_Laba1\Server\x64\Debug\Server.exe

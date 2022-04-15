@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\Филипп лох\source\repos\SisPO_Laba1\Server\Server.cpp(4,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Филипп лох\source\repos\SisPO_Laba1\Server\Server.cpp(83,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server.vcxproj -> C:\Users\Филипп лох\source\repos\SisPO_Laba1\Server\x64\Debug\Server.exe

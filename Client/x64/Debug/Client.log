@@ -1,0 +1,5 @@
+﻿  Client.cpp
+c1xx : warning C5210: "_WINSOCK_DEPRECATED_NO_WARNINGS" не является допустимой ссылкой на блок заголовка; пропускается
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: Поведение расширения макроса, создающего "defined", не определено
+C:\Users\Филипп лох\source\repos\SisPO_Laba1\Client\Client.cpp(21,9): warning C4101: nSize: неиспользованная локальная переменная
+  Client.vcxproj -> C:\Users\Филипп лох\source\repos\SisPO_Laba1\Client\x64\Debug\Client.exe
